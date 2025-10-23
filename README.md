@@ -1,5 +1,5 @@
 # Retail Sales Analysis SQL Project
-kjajsncjnv
+
 ## Project Overview
 
 **Project Title**: Retail Sales Analysis  
